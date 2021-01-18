@@ -1,5 +1,5 @@
 ﻿
-namespace DSGTest
+namespace NetForms
 {
     partial class Form1
     {
